@@ -2595,7 +2595,7 @@ textarea.form-control-lg {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #bd5d38;
+  background-color: #BD5D38;
   border: 0;
   border-radius: 1rem;
   -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -2624,7 +2624,7 @@ textarea.form-control-lg {
 .form-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #bd5d38;
+  background-color: #74992e;
   border: 0;
   border-radius: 1rem;
   -moz-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -3032,8 +3032,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #000;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: #74992e;
+  border-color: #74992e;
 }
 .btn-primary:hover {
   color: #000;
@@ -3056,7 +3056,7 @@ textarea.form-control-lg {
 }
 .btn-primary:disabled, .btn-primary.disabled {
   color: #000;
-  background-color: #bd5d38;
+  background-color: #74992e;
   border-color: #bd5d38;
 }
 
