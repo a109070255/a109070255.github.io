@@ -1,0 +1,36 @@
+body{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1, h2, h3, h4 ,h5 ,h6 , .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+.subheading {
+	font-family: 'Noto Sans TC',sans-serif;
+}
+
+body{
+	text-transform: none;
+}
+
+h1, h2, h3, h4 ,h5 ,h6 , .h1, .h2, .h3, .h4, .h5, .h6 {
+	text-transform: none;
+}
+
+.subheading{
+	text-transform: none;
+}
+
+.bg-primary{
+	background-color:#0f999e!important;
+	background-image: url(../assets/img/green-gobbler.png);
+}
+
+.text-primary{
+	color: 	#238dd4!important;
+}
+
+a{
+	color: 	#238dd4;
+}
